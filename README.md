@@ -19,7 +19,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-![Video Walkthrough](https://i.imgur.com/qASfLIH.mp4)
+![Video Walkthrough](https://i.imgur.com/0VAbbyJ.gif)
 
 ### Notes
 I got stuck on an error at the beginning of the project which was caused by me naively changing the name of the view controller file instead of creating a new file. After resolving this issue, the rest of the assignment was pretty smooth.
