@@ -16,6 +16,7 @@
 		EDD9D74526FACE6500A5A797 /* MovieDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDD9D74426FACE6500A5A797 /* MovieDetailsViewController.swift */; };
 		EDD9D74726FADDC300A5A797 /* MovieGridViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDD9D74626FADDC300A5A797 /* MovieGridViewController.swift */; };
 		EDD9D74926FAE44000A5A797 /* MovieGridCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDD9D74826FAE44000A5A797 /* MovieGridCell.swift */; };
+		EDD9D74B26FAFE5500A5A797 /* MovieGridDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDD9D74A26FAFE5500A5A797 /* MovieGridDetailsViewController.swift */; };
 		EDF23F8926F1CB5A00E1B23B /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDF23F8826F1CB5A00E1B23B /* MainViewController.swift */; };
 		EDF23F8B26F2673400E1B23B /* MovieCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDF23F8A26F2673400E1B23B /* MovieCell.swift */; };
 		EDF23F8E26F26A4100E1B23B /* AlamofireImage in Frameworks */ = {isa = PBXBuildFile; productRef = EDF23F8D26F26A4100E1B23B /* AlamofireImage */; };
@@ -35,6 +36,7 @@
 		EDD9D74426FACE6500A5A797 /* MovieDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieDetailsViewController.swift; sourceTree = "<group>"; };
 		EDD9D74626FADDC300A5A797 /* MovieGridViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieGridViewController.swift; sourceTree = "<group>"; };
 		EDD9D74826FAE44000A5A797 /* MovieGridCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieGridCell.swift; sourceTree = "<group>"; };
+		EDD9D74A26FAFE5500A5A797 /* MovieGridDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieGridDetailsViewController.swift; sourceTree = "<group>"; };
 		EDF23F8826F1CB5A00E1B23B /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 		EDF23F8A26F2673400E1B23B /* MovieCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -101,6 +103,7 @@
 				EDD9D74426FACE6500A5A797 /* MovieDetailsViewController.swift */,
 				EDD9D74626FADDC300A5A797 /* MovieGridViewController.swift */,
 				EDD9D74826FAE44000A5A797 /* MovieGridCell.swift */,
+				EDD9D74A26FAFE5500A5A797 /* MovieGridDetailsViewController.swift */,
 			);
 			path = Flix;
 			sourceTree = "<group>";
@@ -227,6 +230,7 @@
 			files = (
 				EDD9D74526FACE6500A5A797 /* MovieDetailsViewController.swift in Sources */,
 				EDF23F8926F1CB5A00E1B23B /* MainViewController.swift in Sources */,
+				EDD9D74B26FAFE5500A5A797 /* MovieGridDetailsViewController.swift in Sources */,
 				EDAB905926F1B86B00EB4AAB /* AppDelegate.swift in Sources */,
 				EDF23F8B26F2673400E1B23B /* MovieCell.swift in Sources */,
 				EDAB905B26F1B86B00EB4AAB /* SceneDelegate.swift in Sources */,
